@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shubham Rao</h1>
-<h3 align="center">I'm a seasoned Flutter and Android app developer with 4 years of experience, specializing in UI/UX design using Figma. I'm passionate about creating user-friendly and visually appealing mobile applications.</h3>
+<h1>Hi 👋, I'm Shubham Rao</h1>
+<h3>I'm a seasoned Flutter and Android app developer with 4 years of experience, specializing in UI/UX design using Figma. I'm passionate about creating user-friendly and visually appealing mobile applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=securflyinfinity&label=Profile%20views&color=0e75b6&style=flat" alt="securflyinfinity" /> </p>
 
