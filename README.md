@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter | Android (JAVA/Kotlin) | UI/UX Figma**
 
-- 🌱 I’m currently learning **Node.js for API integration**
+- 🌱 I’m currently learning **Spring Boot for RestAPIs**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
